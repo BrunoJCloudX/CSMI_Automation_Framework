@@ -1,0 +1,17 @@
+{
+    "data": {
+        "type": "sessions",
+        "relationships": {
+            "user": {
+                "type": "users",
+                "attributes": {
+                    "email": "",
+                    "password": ""
+                }
+            }
+        }
+    },
+    "fields": {
+        "sessions": "token"
+    }
+}
